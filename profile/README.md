@@ -1,3 +1,3 @@
 <pre>
-  You can prove __anything__ by making enough assumptions.
+  You can prove <b>anything</b> by making enough assumptions.
 </pre>
